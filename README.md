@@ -53,14 +53,14 @@ The **MLP classifier** outperformed KNN in all metrics, especially in recognizin
 - `AUTOMATION AND ROBOTICS FINAL PROJECT.pdf` – Final report with analysis and visualizations
 
 ---
-## 👥 Team Members
+## Team Members
 
 Team 12:  
 Antonieta Della Sala, Maria Villarreal, Laiba Aurangzeb, Cagla Unsalan
 
 ---
 
-## 📌 Course Information
+## Course Information
 
 **Course:** EIN 4601C – Automation and Robotics  
 **Instructor:** Dr. Susana Lai-Yuen  
